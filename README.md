@@ -1,3 +1,7 @@
 # Movielens Data Analysis
 
-This analysis is completed by me in Session 1/ 2022 at Macquarie University. This project was from unit COMP2200: Introduction to Data Science and 3 parts of project is programmed by Python, including and proving many Python skills of mine such as: cleaning, exploration, analyzing and visualization. The was dataset collected by the GroupLens Research Project at the University of Minnesota. In particular, the data was collected through the MovieLens web site (movielens.umn.edu), which records a number of users' ratings (1-5) towards their watched movies. Besides, simple demographic info (e.g., age and gender) for the users and descriptive info (e.g., title and genre) for the movies are provided.
+This repository contains practical notebooks for COMP2200/COMP6200 for Session S1-2022 @ Macquarie University
+
+This repository will contain your practical notebooks for COMP2200/COMP6200 Session S1, 2022. The initial repository has one notebook for the first week. Each week you will add a new notebook and commit your changes as you complete the problems set for you. At the end of the semester you will have this repository as a record of your work. This can then form part of your ongoing portfolio of work.
+
+You can update this README file to personalise your repository.
